@@ -1,0 +1,25 @@
+{
+  "name": "web3bch-providers",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web3bch/providers.git"
+  },
+  "author": "web3bch",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/web3bch/providers/issues"
+  },
+  "homepage": "https://github.com/web3bch/providers#readme",
+  "devDependencies": {
+    "tslib": "^1.9.3",
+    "tslint": "^5.11.0",
+    "typedoc": "^0.13.0",
+    "typedoc-plugin-example-tag": "Yuiki/typedoc-plugin-example-tag#master",
+    "typescript": "^3.1.6"
+  }
+}
