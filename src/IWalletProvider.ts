@@ -3,12 +3,12 @@ import Output from "./entities/Output"
 
 export default interface IWalletProvider {
   /**
-   * Returns the current web3bch version.
+   * Returns the current provider interface version.
    * @example
    * const version = await provider.getVersion()
    * console.log(version)
    * > "0.0.1"
-   * @returns The current web3bch version
+   * @returns The current provider interface version
    */
   getVersion(): Promise<string>
 
