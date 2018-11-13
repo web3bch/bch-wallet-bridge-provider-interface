@@ -1,6 +1,6 @@
 {
   "name": "bch-wallet-bridge-provider-interface",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "scripts": {
     "build": "rm -rf lib && tsc",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/web3bch/bch-wallet-bridge-provider-interface.git"
   },
   "author": "web3bch",
-  "license": "",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/web3bch/bch-wallet-bridge-provider-interface/issues"
   },
