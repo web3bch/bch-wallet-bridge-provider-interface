@@ -1,5 +1,5 @@
 {
-  "name": "web3bch-providers",
+  "name": "bch-wallet-bridge-provider-interface",
   "version": "0.1.0",
   "description": "",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/web3bch/providers.git"
+    "url": "git+https://github.com/web3bch/bch-wallet-bridge-provider-interface.git"
   },
   "author": "web3bch",
   "license": "",
   "bugs": {
-    "url": "https://github.com/web3bch/providers/issues"
+    "url": "https://github.com/web3bch/bch-wallet-bridge-provider-interface/issues"
   },
-  "homepage": "https://github.com/web3bch/providers#readme",
+  "homepage": "https://github.com/web3bch/bch-wallet-bridge-provider-interface#readme",
   "devDependencies": {
     "tslib": "^1.9.3",
     "tslint": "^5.11.0",

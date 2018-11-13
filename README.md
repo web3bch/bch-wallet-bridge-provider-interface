@@ -1,1 +1,1 @@
-# web3bch-providers
+# bch-wallet-bridge-provider-interface
